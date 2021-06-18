@@ -1,4 +1,6 @@
 # pkgnx #
+[![Maven Package](https://github.com/xialeistudio/pkgnx/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/xialeistudio/pkgnx/actions/workflows/maven-publish.yml)
+
 pkgnx is a simple Java library for the NX file format. The format was designed by [Peter Atashian](http://github.com/retep998) and [angelsl](https://github.com/angelsl) and has a public specification available [here](http://nxformat.github.io/). The format intended on replacing the proprietary WZ data format designed by Wizet for the popular game, [MapleStory](http://www.maplestory.com).
 
 ## Using pkgnx ##
